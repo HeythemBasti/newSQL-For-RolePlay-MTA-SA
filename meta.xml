@@ -1,0 +1,7 @@
+<meta>
+	<script src="server.lua" type="server" />
+	
+	<export function="_Query" type="server" />
+	<export function="_QuerySingle" type="server" />
+	<export function="_Exec" type="server" />
+</meta>
